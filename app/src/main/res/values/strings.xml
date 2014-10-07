@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"></string>
+    <string name="action_settings">settings</string>
+    <string name="hello_world">Number of Players:</string>
+    <string name="input_num_player">A number in between 3 and 10 </string>
+    <string name="button_send">Send</string>
+    <string name="button_add_player">Add player</string>
+    <string name="button_add_player_done">Done</string>
+    <string name="title_msg">Playing</string>
+    <string name="action_skip_round">Skip Round</string>
+
+</resources>
